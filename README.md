@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá! Eu sou Gabriela Maciel 👋
 
-<!--
-**gabriela-maciel-pro/gabriela-maciel-pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Profissional com experiência em **Customer Experience, Operações e Atendimento ao Cliente**, com atuação em gestão de reclamações, reputação digital, análise de indicadores e melhoria de processos.
 
-Here are some ideas to get you started:
+### 💼 Áreas de atuação
+- Customer Experience (CX)
+- Atendimento e relacionamento com clientes
+- Gestão de reclamações e reputação digital
+- Análise de indicadores e melhoria contínua
+- Onboarding e treinamento de equipes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Em desenvolvimento
+Aprofundando conhecimentos em análise de dados, automação e inteligência artificial.
+
+### 🔗 Conecte-se comigo
+- [LinkedIn](https://www.linkedin.com/in/gabriela-maciel-423401246/)
+- [Meu portfólio](https://gabriela-maciel-pro.github.io/portfolio/)
+
+---
+
+*Aprendizado contínuo, foco no cliente e melhoria de processos.*
